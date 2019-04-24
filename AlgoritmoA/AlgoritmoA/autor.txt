@@ -1,0 +1,11 @@
+Autor: Ruben Garcia Mateos, 02551077D
+
+Definicion y aplicaciones en la vida real del algoritmo A*:
+Como todo algoritmo de busqueda en amplitud, A* es un algoritmo completo: en caso de existir una solucion,
+siempre dara con ella. A estrella es un algoritmo informatico que se utiliza ampliamente en la busqueda de caminos y el gráfico de recorrido,
+el proceso de planear una ruta eficiente transitable entre puntos, llamados nodos. Destaca por su rendimiento y precision,
+goza de amplio uso, Sin embargo, en los sistemas con los viajes de enrutamiento practicos, se supero en general por medio de algoritmos que pueden pre-proceso de la grafica para lograr un mejor rendimiento.
+En resumen, el algoritmo busca en todas las rutas posibles desde el punto de partida hasta que encuentra el camino mas corto.
+Una posible aplicacion en la vida real ha sido en la navegación en los juegos de video, tambien para dirigir dispositivos
+por un campo determinado a traves de una ruta...etc
+final
