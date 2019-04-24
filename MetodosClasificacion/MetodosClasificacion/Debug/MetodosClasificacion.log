@@ -1,0 +1,36 @@
+﻿Compilación iniciada a las 21/05/2018 21:08:06.
+     1>Proyecto "C:\Users\usuario\documents\visual studio 2013\Projects\MetodosClasificacion\MetodosClasificacion\MetodosClasificacion.vcxproj" en el nodo 2 (Build destinos).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MetodosClasificacion.cpp
+         MetodosClasificacion.cpp
+     1>c:\users\usuario\documents\visual studio 2013\projects\metodosclasificacion\metodosclasificacion\metodosclasificacion.cpp(115): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\usuario\documents\visual studio 2013\projects\metodosclasificacion\metodosclasificacion\metodosclasificacion.cpp(138): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\usuario\documents\visual studio 2013\projects\metodosclasificacion\metodosclasificacion\metodosclasificacion.cpp(155): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\usuario\documents\visual studio 2013\projects\metodosclasificacion\metodosclasificacion\metodosclasificacion.cpp(159): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\usuario\documents\visual studio 2013\projects\metodosclasificacion\metodosclasificacion\metodosclasificacion.cpp(172): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\usuario\documents\visual studio 2013\projects\metodosclasificacion\metodosclasificacion\metodosclasificacion.cpp(236): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\usuario\documents\visual studio 2013\projects\metodosclasificacion\metodosclasificacion\metodosclasificacion.cpp(243): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\usuario\documents\visual studio 2013\projects\metodosclasificacion\metodosclasificacion\metodosclasificacion.cpp(280): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\usuario\documents\visual studio 2013\projects\metodosclasificacion\metodosclasificacion\metodosclasificacion.cpp(295): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\usuario\documents\visual studio 2013\projects\metodosclasificacion\metodosclasificacion\metodosclasificacion.cpp(88): warning C4101: 'pertenencia' : variable local sin referencia
+     1>c:\users\usuario\documents\visual studio 2013\projects\metodosclasificacion\metodosclasificacion\metodosclasificacion.cpp(83): warning C4101: 'maximoMuestras' : variable local sin referencia
+     1>c:\users\usuario\documents\visual studio 2013\projects\metodosclasificacion\metodosclasificacion\metodosclasificacion.cpp(88): warning C4101: 'dato' : variable local sin referencia
+     1>c:\users\usuario\documents\visual studio 2013\projects\metodosclasificacion\metodosclasificacion\metodosclasificacion.cpp(83): warning C4101: 'posicionDeCambiodeClase' : variable local sin referencia
+     1>c:\users\usuario\documents\visual studio 2013\projects\metodosclasificacion\metodosclasificacion\metodosclasificacion.cpp(83): warning C4101: 'numCentro' : variable local sin referencia
+     1>c:\users\usuario\documents\visual studio 2013\projects\metodosclasificacion\metodosclasificacion\metodosclasificacion.cpp(443): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\usuario\documents\visual studio 2013\projects\metodosclasificacion\metodosclasificacion\metodosclasificacion.cpp(595): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\usuario\documents\visual studio 2013\projects\metodosclasificacion\metodosclasificacion\metodosclasificacion.cpp(614): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\usuario\documents\visual studio 2013\projects\metodosclasificacion\metodosclasificacion\metodosclasificacion.cpp(634): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\usuario\documents\visual studio 2013\projects\metodosclasificacion\metodosclasificacion\metodosclasificacion.cpp(653): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\usuario\documents\visual studio 2013\projects\metodosclasificacion\metodosclasificacion\metodosclasificacion.cpp(673): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\usuario\documents\visual studio 2013\projects\metodosclasificacion\metodosclasificacion\metodosclasificacion.cpp(692): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\usuario\documents\visual studio 2013\projects\metodosclasificacion\metodosclasificacion\metodosclasificacion.cpp(912): warning C4018: '<' : no coinciden signed/unsigned
+     1>c:\users\usuario\documents\visual studio 2013\projects\metodosclasificacion\metodosclasificacion\metodosclasificacion.cpp(921): warning C4018: '<' : no coinciden signed/unsigned
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\usuario\documents\visual studio 2013\Projects\MetodosClasificacion\Debug\MetodosClasificacion.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\usuario\documents\visual studio 2013\Projects\MetodosClasificacion\Debug\MetodosClasificacion.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\usuario\documents\visual studio 2013\Projects\MetodosClasificacion\Debug\MetodosClasificacion.lib" /MACHINE:X86 Debug\MetodosClasificacion.obj
+         MetodosClasificacion.vcxproj -> C:\Users\usuario\documents\visual studio 2013\Projects\MetodosClasificacion\Debug\MetodosClasificacion.exe
+     1>Compilación del proyecto terminada "C:\Users\usuario\documents\visual studio 2013\Projects\MetodosClasificacion\MetodosClasificacion\MetodosClasificacion.vcxproj" (Build destinos).
+
+Compilación correcta.
+
+Tiempo transcurrido 00:00:03.50

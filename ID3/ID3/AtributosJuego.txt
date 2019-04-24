@@ -1,0 +1,1 @@
+TiempoExterior,Temperatura,Humedad,Viento,Jugar
